@@ -5,8 +5,8 @@
 
 1. clone project 
 2. run ``` yarn install ```
-3. clone file .env.template to .env and provide teh variables 
-4. start the database
+3. clone file .env.template to .env and provide the variables 
+4. start the database with command :
 ```
 docker-compose up- d
 ```
